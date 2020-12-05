@@ -1,0 +1,8 @@
+{"lvl":"info","time":"2020-12-05T14:56:57.440+0800","msg":"MongoDb berhasil terkoneksi!"}
+{"lvl":"error","time":"2020-12-05T14:58:06.213+0800","msg":"Gagal mendapatkan user dari database (GetUserByEmailWithPassword)","error":"connection() : Post \"http://ocsp.int-x3.letsencrypt.org\": context deadline exceeded"}
+{"lvl":"info","time":"2020-12-05T15:04:11.661+0800","msg":"MongoDb berhasil terkoneksi!"}
+{"lvl":"info","time":"2020-12-05T17:47:24.082+0800","msg":"MongoDb berhasil terkoneksi!"}
+{"lvl":"info","time":"2020-12-05T17:47:51.689+0800","msg":"MongoDb berhasil terkoneksi!"}
+{"lvl":"info","time":"2020-12-05T17:49:32.525+0800","msg":"MongoDb berhasil terkoneksi!"}
+{"lvl":"info","time":"2020-12-05T17:51:40.065+0800","msg":"MongoDb berhasil terkoneksi!"}
+{"lvl":"info","time":"2020-12-05T18:00:33.604+0800","msg":"MongoDb berhasil terkoneksi!"}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="389a7ba4-1f1f-482c-bf54-ba67586adea2" name="Default Changelist" comment="initial">
+      <change afterPath="$PROJECT_DIR$/.idea/auth_service_go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/url_mappings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/middleware/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/ping_controller/ping_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/user_controller/user_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/mongo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domains/users/user_dao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domains/users/user_dto.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/user_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/user_service_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/whois.muchlis@gmail.com.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/wwws.muchlis@gmail.com.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/crypt/crypto.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/crypt/crypto_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/mjwt/custom_claim.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/mjwt/my_jwt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/mjwt/my_jwt_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://C:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1lDyV9muqCPe9AyOPc8GuRnoLSs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODING\auth_service_go" />
+      <recent name="D:\CODING\auth_service_go\utils\mjwt" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
