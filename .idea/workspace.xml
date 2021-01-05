@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="389a7ba4-1f1f-482c-bf54-ba67586adea2" name="Default Changelist" comment="initial">
-      <change afterPath="$PROJECT_DIR$/.idea/auth_service_go.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/url_mappings.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/middleware/middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/ping_controller/ping_controller.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/user_controller/user_controller.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/mongo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domains/users/user_dao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domains/users/user_dto.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/user_service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/user_service_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/whois.muchlis@gmail.com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/wwws.muchlis@gmail.com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/crypt/crypto.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/crypt/crypto_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/mjwt/custom_claim.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/mjwt/my_jwt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/mjwt/my_jwt_test.go" afterDir="false" />
+    <list default="true" id="389a7ba4-1f1f-482c-bf54-ba67586adea2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.log" beforeDir="false" afterPath="$PROJECT_DIR$/example.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

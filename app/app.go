@@ -14,7 +14,7 @@ func init() {
 	router = fiber.New()
 }
 
-// StartApp memulai gin http server
+// StartApp memulai fiber http server
 func StartApp() {
 
 	client, ctx, cancel := db.Init()
